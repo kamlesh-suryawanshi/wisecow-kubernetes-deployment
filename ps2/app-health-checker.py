@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-URL = "http://127.0.0.1:58851"
+URL = "http://127.0.0.1:50464"
 
 
 def check_application(url):
